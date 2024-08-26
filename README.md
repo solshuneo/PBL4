@@ -1,6 +1,15 @@
 # Khóc đi em
 
 Hướng dẫn cách đi đường trước phút thứ 14
+## Câu lệnh cơ bản
+```c
+void setup() {
+    Serial.begin(9600);
+}
+void loop() {
+    Serial.println("Shuneo's here");
+}
+```
 ## Những bài Lab cơ bản
 > Đâu ai biết lần gặp lúc đó ngồi kề bên nhau là cuối cùng
 
